@@ -1,0 +1,35 @@
+Member 1 — Manisha (Authentication & Registration UI)
+Responsibilities:
+- Built the user registration and login UI.
+- Implemented authentication flow and input validation.
+- Connected frontend registration page with the backend API.
+- Managed styling and initial UI structure.
+
+
+------------------------------------------------------------
+
+Member 2 — Shreyansh Rajput (Backend & Socket Security)
+Responsibilities:
+- Secured backend APIs for message and key handling.
+- Implemented encrypted Socket.io message relay.
+- Added validation and error handling on the server.
+- Managed server routing and backend architecture.
+
+------------------------------------------------------------
+
+Member 3 — Nidhi Jain (Database & Crypto Logic)
+Responsibilities:
+- Designed MongoDB schemas for User and Message models.
+- Developed PQC cryptography bridge using liboqs WebAssembly.
+- Managed WASM loading, memory handling, and encryption logic.
+- Integrated PQC encryption/decryption with database workflow.
+- Managed WASM loading, memory handling, and encryption logic.
+------------------------------------------------------------
+
+Member 4 — Ayushi Verma (UI/UX & Client-Side Encryption)
+Responsibilities:
+- Built Chat UI and integrated real-time decryption.
+- Implemented client-side session and secret key logic.
+- Managed user interaction flow and secure logout.
+- Designed frontend user experience.
+
